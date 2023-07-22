@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project that allows users to rent different models of cars.
+This is a [Next.js](https://nextjs.org/) project that allows users to rent different models of cars, using Rapid API to fetch the data.
 
 ## Getting Started
 
